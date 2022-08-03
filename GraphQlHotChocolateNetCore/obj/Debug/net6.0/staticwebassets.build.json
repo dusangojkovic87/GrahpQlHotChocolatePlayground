@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7PxKEhsvQLBVAIedI8WhJhcoh8DhFGs7wpN3CNQ9y0Y=",
+  "Source": "GraphQlHotChocolateNetCore",
+  "BasePath": "_content/GraphQlHotChocolateNetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
